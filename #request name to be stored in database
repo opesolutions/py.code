@@ -1,0 +1,2 @@
+#get data and save 
+Def get_data_command (self):
